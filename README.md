@@ -87,14 +87,6 @@ npm update
 npm install
 ```
 
-## psql: FATAL: Peer authentication failed for user “postgres” (or any user)
-
-The connection failed because by default `psql` connects over UNIX sockets using `peer` authentication, that requires the current UNIX user to have the same user name as `psql`. So you will have to create the UNIX user `postgres` and then login as `postgres` or use `sudo -u postgres psql database-name` for accessing the database (and `psql` should **not** ask for a password).
-
-If you cannot or do not want to create the UNIX user, like if you just want to connect to your database for *ad hoc* queries, forcing a socket connection using `psql --host=localhost --dbname=database-name --username=postgres` (as pointed out by @meyerson answer) will solve your immediate problem.
-
-But if you intend to force password authentication over Unix sockets instead of the peer method, try changing the following `pg_hba.conf`* line:
-
 from
 
     # TYPE DATABASE USER ADDRESS METHOD
