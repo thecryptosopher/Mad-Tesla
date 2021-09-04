@@ -67,7 +67,7 @@ Combining Incomparability & Similarity
 
 ## Epistemology
 
-**Knowledge and the Knower
+**Knowledge and the Knower**
 
 **Acquiring Knowledge**
 
