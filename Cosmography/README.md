@@ -1,5 +1,9 @@
 ## A Unified Cryptographic Model of Cosmic Geometry, Physics, Music and Consciousness
 
+  There is only one Light in the Universe. There is only one Sound in the Universe. There is only one Magnetism in the Universe. There is only one Electricity in the Universe. There is only one Gravity in the Universe. There is only one Matter in the Universe. There is only one Hologram in the Universe. There is only one Intelligence in the Universe. There is only one Consciousness in the Universe. There is only one Love in the Universe. There is only One Song in the Uni-Verse.
+
+There is only One Thing going on in the Universe.
+
 **Wholeness**
 
 Holographic Wholeness
