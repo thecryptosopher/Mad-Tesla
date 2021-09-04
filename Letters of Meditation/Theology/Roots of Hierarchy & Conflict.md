@@ -1,4 +1,4 @@
-**Divine Roots of Hierarchy & Conflict**
+**Roots of Hierarchy & Conflict**
 
 Hierarchy in the Names
 
