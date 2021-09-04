@@ -1,4 +1,4 @@
-**The Names of God**
+**The Names of Reality**
 
 Names, Attributes & Relationships
 
