@@ -6,13 +6,6 @@
 
 **Metaphysics of Love:** The Path of No Path
 
-## The Mystical Experience
-
-Simulation For Attaining Ecstasy
-
-Music & Ecstatic Kabbalah
-
-Erotic Imagery for the Ecstatic Experience
 
 ## Theology
 
@@ -178,6 +171,15 @@ Serving the Divine Names
 The People of Blame
 
 The Station of No Station
+
+
+## The Mystical Experience
+
+Simulation For Attaining Ecstasy
+
+Music & Ecstatic Kabbalah
+
+Erotic Imagery for the Ecstatic Experience
 
 
 
