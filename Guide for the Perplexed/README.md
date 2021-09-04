@@ -1,5 +1,7 @@
 ## Letters of Meditation
 
 Metaphysics of the Intellect
+
 Metaphysics of Imagination
+
 Metaphysics of Love
