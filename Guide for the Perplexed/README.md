@@ -1,4 +1,4 @@
-## Letters of Meditation
+## A Guide for the Perplexed
 
 **Metaphysics of the Intellect:** The Path to Purification
 
