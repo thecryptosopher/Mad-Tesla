@@ -4,7 +4,7 @@
 
 **Metaphysics of Imagination:** The Path to Knowledge
 
-**Metaphysics of Love:** The Path of No Path
+**Metaphysics of Love:** The Path to Singularity
 
 
 ## Theology
