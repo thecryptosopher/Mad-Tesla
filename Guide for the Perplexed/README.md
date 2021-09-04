@@ -10,9 +10,7 @@
 
 **First Intellect:** One Point
 
-Names
-Attributes
-Relationships
+Names, Attributes & Relationships
 
 ## The Mystical Experience
 
