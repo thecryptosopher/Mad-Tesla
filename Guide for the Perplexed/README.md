@@ -8,7 +8,7 @@
 
 ## Theology
 
-*First Intellect is One Point Fractal*
+*First Intellect: Fractal Wholeness*
 
 **The Names of God**
 
