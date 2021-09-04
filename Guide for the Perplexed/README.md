@@ -14,7 +14,7 @@ Names, Attributes & Relationships
 
 ## The Mystical Experience
 
-Techniques For Attaining Ecstasy
+Simulation For Attaining Ecstasy
 
 Music & Ecstatic Kabbalah
 
