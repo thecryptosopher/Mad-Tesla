@@ -1,11 +1,8 @@
 ## Letters of Meditation
 
-Metaphysics of the Intellect
-- Path to Purification
+**Metaphysics of the Intellect:** The Path to Purification
 
-Metaphysics of Imagination
-- Path to Knowledge
+**Metaphysics of Imagination:** The Path to Knowledge
 
-Metaphysics of Love
-- Path to Presence
+**Metaphysics of Love:** The Path of No Path
 
