@@ -17,7 +17,9 @@ Relationships
 ## The Mystical Experience
 
 Techniques For Attaining Ecstasy
+
 Music & Ecstatic Kabbalah
-Erotic Images for the Ecstatic Experience
+
+Erotic Imagery for the Ecstatic Experience
 
 
