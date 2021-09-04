@@ -9,7 +9,7 @@
 
 ## Theology
 
-*First Intellect: Fractal Wholeness*
+*First Intellect: Fractal Wholeness [One Point]*
 
 **The Names of God**
 
