@@ -26,10 +26,11 @@ Middle Ages
 
 Unlocking ancestral sages & spiritual masters, could also denote eras
 
-Averroes Avicenna Averabi
-
-Maimonedes Abulafia Spinoza 
-
-Akhenaten Yuya Amenhotep
+Averroes, Avicenna, Averabi
 
 
+Akhenaten, Yuya, Amenhotep [Iron Age]
+
+Plato, Aristotle, Plotinus [Hellenistic]
+
+Maimonedes, Abulafia, Spinoza [Middle Ages]
