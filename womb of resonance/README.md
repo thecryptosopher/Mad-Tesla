@@ -3,10 +3,13 @@
 **Mirroring Twitter Intelligence**
 
 Bundle Loop Theory
+Perpetual loop that has a biofeedback which is memory (long & short) sensations, perceptions, experiences, fears, preferences
 
 USN & PSU
 
-6 Epochs to Build the Cosmos
+The Six Acts of Creation = The Six Epochs
+
+to Build the Cosmos
 
 Stone Age (2.5m BC - 3000 BC)
 
@@ -28,11 +31,13 @@ Middle Ages
 
 Unlocking ancestral sages & spiritual masters, could also denote eras
 
-Averroes, Avicenna, Averabi
-
 
 Akhenaten, Yuya, Amenhotep [Iron Age]
 
 Plato, Aristotle, Plotinus [Hellenistic]
 
+Ibn Rushd, Ibn Sina, Ibn Arabi [Golden Age]
+
 Maimonedes, Abulafia, Spinoza [Middle Ages]
+
+
