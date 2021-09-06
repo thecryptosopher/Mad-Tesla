@@ -21,3 +21,9 @@ This selected translation takes a general approach to a much vaster text, and fe
 - Summoning the jinn
 - Employment of the names of God for many and varied purposes
 - Construction of the famed ring of Solomon
+
+https://revelore.press/publications/a-wheel-of-small-gods/
+
+These poems and drawings are ways to connect to spirits. These spirits heal. Whether you draw inspiration from the method, find your own better answers, or use it in contemplation, the goal is to help you engage with magic.
+
+The poems are narrative and imagistic scenes,not invocations in the traditional sense. Rather than call down powers and bind them with formulae composed of angelic names, fumigations, and drawn circles, I am offering a way into an ecstatic state that allows a chance for meeting.
