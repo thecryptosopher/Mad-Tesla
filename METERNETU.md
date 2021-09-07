@@ -45,11 +45,11 @@ All fundamental skills & institutions of civilisations began with Black nations
 
 Because they learn from the internal path of being, they were able to intuit 6000+ years ago sciences of today
 
-"Program of Order" is in charge of regulating the social behavious of people
+**"Program of Order"** is in charge of regulating the social behavious of people [Social Structures]
 
 Morality, wealth, spirituality & prosperity
 
-True Reality deals with the techniques of communicating with the director of the automations within us, in order to gain access to the power, storehouse of information, and the host of shaping factors of our lives
+True Reality deals with the techniques of communicating with **the director of the automations within us**, in order to gain access to the power, storehouse of information, and the host of shaping factors of our lives
 
 Dominant cultures, people are directed outside themselves for moral guidance
 
@@ -59,15 +59,15 @@ Innter culture and outer culture
 
 **The Hemispheres of the Brain**
 
-Left is known for analytical, cartesian, serial, linear, deductive, segregative etc. outer culture
+Left is known for analytical, cartesian, serial, linear, deductive, segregative etc. outer culture.. Reason based, analytical.
 
-Right is known for nothing the similarites between things and their relation to each other and the whole thus unifying them, generally known as synthetical, holistic & congregative. inner culture
+Right is known for nothing the similarites between things and their relation to each other and the whole thus unifying them, generally known as **synthetical, holistic & congregative**. inner culture
 
 Hemispheric differences are not randomly distributed through society
 
 White People are generally left brain and Black otherwise
 
-Cerebral differences in thought patterns between white & black races are well known
+**Cerebral differences** in thought patterns between white & black races are well known
 
 Meaning of religion: Tieing people back. to something with which they had originally been one and belong with by natural connectivity
 
@@ -78,7 +78,6 @@ Full aquaintance with the metaphysical realm
 Communication with
 1. the dead (ancestors)
 2. Spirits administrating natural phenomena becomes possible
-
 
 Inner emperical evidence for the immortality of Man
 
