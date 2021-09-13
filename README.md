@@ -250,12 +250,33 @@ So what’s wrong with free? It is always a lie, because on this earth nothing, 
 
 Of all Google’s foundational principles, the zero price, is apparently its most benign. Yet it will prove to be not only its most pernicious principle but the fatal flaw that dooms Google itself. Google will likely be an important company ten years from now. Search is a valuable service, and search it will continue to provide. On search it may prosper, even at a price of zero. But Google’s insidious system of the world will be swept away.
 
+**Google's Roots and Religions**
 
+Under the leadership of Larry Page and Sergey Brin, Google developed the integrated philosophy that currently shapes our lives and fortunes, combining a theory of knowledge (nicknamed “Big Data”), a technological vision (centralized cloud computing), a cult of the commons (rooted in “open source” software), a concept of money and value (based on free goods and automated advertising), a theory of morality as “gifts” rather than profits, and a view of progress as evolutionary inevitability and an ever diminishing “carbon footprint.
 
+Google enlisted in a chiliastic campaign to blend human and machine cognition. Kurzweil calls it a “singularity,”
 
+Page and Brin set out to render the world, beginning with its simulacrum, the Worldwide Web, as a readable set of digital files, a “corpus” of accessible information, an enormous database.
 
+Accessed through a password system named Gaia, after the earth goddess, this digital mirror world and its uncountable interactions comprised a dynamic microcosm worthy of a googolplex.
 
+Google, however, was not a conventional company. It made the fateful and audacious decision to make all its content and information available free: in economic terms, a commons, available to all, in the spirit of the Internet pioneer Stewart Brand, whose slogan was “Information wants to be free"
 
+It provides information, art, knowledge, culture, enlightenment, all for no charge.
+
+Google does it through one of the most ingenious technical schemes in the history of commerce.
+
+A purpose of a medusa browser would be “no one would have to read or see any unwanted ads."
+
+Ads would be sought, not fought
+
+In 2009, the Stanford philosopher Fred Turner published a paper titled “Burning Man at Google: A Cultural Infrastructure for New Media Production,” in which he unveiled the religious movement behind Google’s system of the world.
+
+Echoing the 10 Principles of Burning Man is Google’s corporate page presenting “Our Philosophy,” a guide to its system of the world in the form of “ten things we know to be true.
+
+There is one supreme omission in this list of high-minded concerns.8 Nowhere is there any mention of the need for security.
+
+In other words, “It takes a village.” Security is at the heart of the problems of the Net, and in this case, Google is a source of problems rather than answers.
 
 
 
