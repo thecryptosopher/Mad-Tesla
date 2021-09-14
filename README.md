@@ -22,6 +22,8 @@ he math all jibed.
 
 Open doors of perception
 
+## Google, Amazon & Facebook
+
 The Internet has not delivered on some of its most important promises.
 
 Under Google’s guidance, the Internet is not only full of unwanted ads but fraught with bots and malware. Instead of putting power in the hands of individuals, it has become a porous cloud where all the money and power rise to the top.
@@ -278,13 +280,110 @@ There is one supreme omission in this list of high-minded concerns.8 Nowhere is 
 
 In other words, “It takes a village.” Security is at the heart of the problems of the Net, and in this case, Google is a source of problems rather than answers.
 
+**End of the Free World**
 
+Gather a bunch of people together who think they’re there for one thing, but are really there for something else.”1 It’s a bait and switch, and no one likes it.
 
+Under the new regime, the price of every incremental good and service, from search to software, from news to energy, will plunge toward “free” as every device and entity in the world is subsumed in an Internet of Things, where exponential network effects yield a new economy of leisure and abundance.3 Rifkin assured his audience that it is indeed a Google world.
 
+But not only is “free” a lie, as we’ve seen, but a price of zero signifies a return to the barter system, a morass of incommensurable exchanges that the human race left behind in the Stone Age. You pay not with money but with your attention.
 
+Above all, you pay in time. Time is what money measures and represents—what remains scarce when all else becomes abundant in the “zero marginal cost” economy. Money signals the real scarcities of the world concealed in the false infinities of free.
 
+All the free stuff leads to transactional tricks and traps: offers of only rarely desired subscriptions automatically renewable, spurious prizes, bonuses, and jackpots, with new pop-up or pop-under perils at every step.
 
+It’s the “Free World,” and it is reaching past your wallet, spurning your earned money, to seize your time—which is actually your life.
 
+James’s second key point is that while pure info-search is still dominated by Google, commercial search—intentional searches for products to buy—is shifting dramatically to Amazon.
+
+This success followed Amazon’s coup in cloud services. 
+
+Although Google by all measures commanded the world’s leading cloud deployment, somehow Amazon defeated them in marketing cloud services by 57 percent to 16 percent as of 2017. 
+
+This advance in collecting money from real customers must have been baffling to Google.
+
+Google pivoted toward “AI first.” Google was the recognized intellectual leader of the industry, and its AI ostentation was widely acclaimed. Indeed it signed up most of the world’s AI celebrities, including its spearheads of “deep learning” prowess, from Geoffrey Hinton and Andrew Ng to Jeff Dean, the beleaguered Anthony Levandowski, and Demis Hassabis of DeepMind.
+
+Both Google’s mobile-first strategy and Amazon’s Alexa turned the industry toward voice-accessed AI.
+
+This very lack of concern with security, however, will be Google’s undoing. For every other player on the Net, the lack of security is the most relevant threat to its current business model. 
+
+The problem will be solved. 
+
+Some thousands of companies you’ve never heard of are investing billions right now in that effort. Collectively they will give birth to a new network whose most powerful architectural imperative will be security of transactions as a property of the system rather than an afterthought. 
+
+So fundamental will security be to this new system that its very name will be derived from it. 
+
+It will be the cryptocosm.
+
+## Ten Laws of the Cryptocosm
+
+Google’s security foibles, its “aggregate and advertise” model, its avoidance of price signals, its vertical silos of customer data, and its visions of machine mind are unlikely to survive the root-and-branch revolution of distributed peer-to-peer technology, which I call the “cryptocosm.
+
+In the Google era, the prime rule of the Internet is “Communications first.” That means everything is free to be copied, moved, and mutated. While most of us welcome “free” on the understanding that it means “no charge,” what we really want is to get what we ordered rather than what the authority chooses to provide. In practice, “free” means insecure, amorphous, unmoored, and changeable from the top.
+
+This communications-first principle served us well for many years. The Internet is a giant asynchronous replicator that communicates by copying. Regulating all property rights in the information economy are the copy-master kings, chiefly at Google.
+
+In this system, security is a function of the network, applied from the top, rather than a property of the device and its owner. So everything rises to the top, the Googleplex, which achieves its speed and efficiency by treating its users as if they were making random choices. That’s the essence of the mathematical model behind their search engine. You are a random function of Google.
+
+But you are not random; you are a unique genetic entity that cannot be factored back into an egg and a sperm. You are unbreakably encrypted by biology. These asymmetrical natural codes are the ruling model and metaphor for enduring security. 
+
+You start by defining not the goal but the ground state. Before you build the function or the structure, you build the foundation. It is the ultimate non-random reality. 
+
+The ground state is you.
+
+1. Security first
+2. Centralisation is not safe
+3. Safety last
+4. Nothing is free
+5. Attention is the final measure of cost
+6. Stable money endows humans with dignity & control
+7. Assymetry law
+8. Private keys rule
+9. Private keys are held by individuals
+10. Behind every private key and its public key is the human interpreter
+
+How will your experience of the world change when these ten rules define the system?
+
+Google is hierarchical. Life after Google will be heterarchical. 
+
+Google is top-down. Life after Google will be bottom-up. 
+
+Google rules by the insecurity of all the lower layers in the stack. A porous stack enables the money and power to be sucked up to the top. 
+
+In life after Google, a secure ground state in the individual human being, registered and timestamped in a digital ledger, will prevent this suction of hierarchical power.
+
+Whereas Google now controls your information and uses it free of charge, you will be master of your own information and charge for it freely. 
+
+Try the Brave Browser of Brendan Eich, formerly of Mozilla and the author of JavaScript. It gives you power over your data and enables you to charge for them.
+
+Whereas Google envisages an era of machine dominance through artificial intelligence, you will rule your machines, and they will serve you as intelligent, willing slaves. 
+
+You will be the “oracle” that programs your life and dictates to your tools.
+
+Whereas Google’s “free world” tries to escape the laws of scarcity and the webs of price, you will live in a world brimming with information on the real costs and most efficient availabilities of what you want and need. The proof of your work will trump the claims of top-down speed and hierarchical power. 
+
+The crude imperatives of “free” will give way to the calibrated voluntary exchanges of free markets and micropayments.
+
+Whereas the Google world strains you through sieves of diversity and runs you through blenders of conformity, the new world will subsist on the foundational realities of individual uniqueness and choice. 
+
+Whereas the Google world is stifling entrepreneurs’ access to the public markets through initial public offerings, which are down 90 percent in two decades, the new world will offer an array of new paths to enterprise. From initial coin offerings and token issues to crowd-funded projects, new financial devices are already empowering a new generation of entrepreneurs. 
+
+The queues of abject “unicorns”—privately held start-ups worth a billion dollars or more—outside the merger and acquisition offices of Google and its rivals will be dispersed, replaced by herds of “gazelles” headed for public markets at last.
+
+Whereas Google attempts to capture your eyeballs with ubiquitous advertisements, you will see advertisements at your own volition, when you want them, and you will be paid for your time and attention. Again, Brave is the leader of this movement.
+
+Money is not a magic wand but a measuring stick, not wealth but a gauge of it. Whereas money in the Google era is fodder for a five-trillion-dollar-a-day currency exchange—that’s seventy-five times the amount of the world’s trade in goods and services—you will command unmediated money that measures value rather than manipulates it. 
+
+Whereas the Google world is layered with middlemen and trusted third parties, you will deal directly with others around the globe with scant fees or delays.
+
+Emerging is a peer-to-peer swarm of new forms of direct transactions beyond national borders and new forms of Uber and Airbnb beyond corporate gouges. 
+
+Whereas the Google world confines you to one place and time and life, the new world will open up new dimensions and options of new life and experience where the only judge is the sovereign you.
+
+Does the promise that human dignity will once again take its place on the Internet and that human beings will be masters of the cryptocosm sound too good to be true?
+
+If these principles are enigmatic today, to explain their sources and ultimate success, we must, as Caltech’s Carver Mead tells us, “listen to the technology and find out what it is telling us.
 
 
 
