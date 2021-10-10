@@ -439,6 +439,71 @@ Does the promise that human dignity will once again take its place on the Intern
 
 
 
+**Google's Datacenter Coup**
+
+**Summary**: ...
+
+The Dalles was to be the spearhead of its new system of the world.
+
+This condensation of big data and vast computing power in the “cloud” is unprecedented in the history of computing. These machines gain control of their environment by excelling all others in the speed and density of their computations and transactions and in the size of their data stores.
+
+Such servers are behind new centers of dominance in industries as diverse as retailing and finance, insurance and real estate. But Google’s are the most dominant of all.
+
+According to Bell’s Law, every decade a hundredfold drop in the price of processing power engenders a new computer architecture.
+
+The Google worldwide warehouse arises from this once futuristic terabyte paradigm, but its operating environment is now the peta-scale—petabytes, petaops, petaflops.
+
+Today Google reigns over a database of thousands of petabytes, called exa-bytes, swelled every twenty-four hours by scores of terabytes of Gmails, Facebook pages, presidential twitter feeds, and videos—a relentless march of daily deltas, each larger than the whole Web of a decade ago
+
+Replicated around the globe, this Bell’s Law machine in The Dalles is at the heart of Google’s hegemony.
+
+Google designed and manufactured its own servers from cheap commodity components made by microprocessor star Intel and hard-drive king Seagate.
+
+The price of high-end processors “goes up nonlinearly with [their] performance,” he observed. That is, Intel’s high-end microprocessors cost increasingly more than they are worth in incremental output
+
+We have now run into a brick wall. What brought all of us faster computing was raising the CPU’s clock rate [its speed per compute cycle measured in hertz or cycles per second]. A faster clock increased power consumption. We could only increase the clock rate without consuming more power because we could lower the voltage. But we can’t do that anymore because **we’re down into electron volts where quantum uncertainty takes over. If you can’t lower the voltage, you can’t raise the clock rate without using a lot more power.**
+
+It is harder to accelerate the clock rate and reduce the heat emissions than it is to multiply transistors storing bits in memory chips. As memory grows more rapidly than microprocessor operations, faster microprocessors tend to bog down in memory accesses. 
+
+Hölzle’s solution, driven by Larry Page, was promising: jamming together innumerable cheap processors in parallel and linking them with fiber-optic lines at the speed of light. 
+
+Ingenious new software made them work together. That was at least a theoretical path to a scalable system in which bang for the buck didn’t diminish as the system grew
+
+The essential first step in the coup. By building its own infrastructure rather than relying on commercial data centers, Google got “tremendous competitive advantage,” Schmidt told analysts at the time.
+
+Wasting what is abundant to conserve what is scarce, the G-men have become the supreme entrepreneurs of the new millennium.
+
+It is the Google era. But hovering over the massively parallel, prodigally productive petascale computer like a midday emanation over Death Valley is a shimmering haze of heat.
+
+Air conditioning will be the prime cost and conundrum of the petascale era.
+
+Hydropower is a limited and localized resource, while nuclear power promises centuries of nearly limitless energy that can be produced almost anywhere. China plans to build as many as forty newfangled nuclear plants; the next wave of data centers may well be in Shenzhen.
+
+For now, though, Google has attained one of the holy grails of computer science: a scalable massively parallel architecture that can accommodate diverse software while poring through petabytes of big data.
+
+Its petascale search machine in place, Google then faced the question: What else could it do? 
+
+Google’s answer: just about anything. 
+
+Google and the others suck into their proprietary clouds more and more of the duties once delegated to the CPU. Optical networks, which move data over vast distances without degradation, allow computing to migrate to wherever power is cheapest
+
+The Googleplex at the center of the sphere will soon dwarf the Internet itself.
+
+If CPUs won’t run much cooler, he reasons, maybe the rest of the computer can be redesigned to keep power consumption to a minimum. That’s his goal. Some industry veterans believe that Bechtolsheim doesn’t count for much in the era of cloud computing
+
+Bechtolsheim believes that the move from search to more ambitious services plays to Google’s advantage. “To deliver video, maps, and all the rest on the fly, optimized for a specific customer’s needs, to get the maximum benefit for the advertiser—that requires tremendous hardware, storage, and memory. It takes hundreds of computers free to each end user. The next tier down doesn’t have the economics to build this stuff.”
+
+The last few years have been disappointing for people who want to accelerate progress in technology. But now the world is moving faster again.”
+
+The next wave of innovation will compress today’s parallel solutions in an evolutionary convergence of electronics and optics: 3D and even holographic memory cells; lasers inscribed on the tops of chips, replacing copper pins with streams of photons; and all-optical networks in which thousands of colors of light travel along a single fiber. As these advances find their way into an increasing variety of devices, the petascale computer will shrink from a dinosaur to a teleputer—the successor to today’s handhelds—in your ear or in your signal path. It will access an endless variety of sensors, searchers, and servers.
+
+These innovations will enable participation in metaverses that seem to play to the strength of Google’s cloud, which will link to trillions of sensors around the globe. (IPhone8 has sixteen different sensor systems, from an array of radio frequency devices to gyroscopes, accelerometers, barometers, and imagers galore.) A planetary sensorium will give Google a constant knowledge of the physical state of the world, from traffic conditions to the workings of your own biomachine.
+
+Will the
+Sirens offer a new machine of economic growth and progress, investment and capital accumulation, and continued economic dominance? Or is The Dalles a monument to an expiring business strategy? Are the days of centralization over?
+
+
+
 
 
 
@@ -513,6 +578,19 @@ Whereas the Google world confines you to one place and time and life, the new
 world will open up new dimensions and options of new life and experience where the only judge is the sovereign you.
 
 Does the promise that human dignity will once again take its place on the Internet and that human beings will be masters of the cryptocosm sound too good to be true?
+
+Bechtolsheim believes that the move from search to more ambitious services plays to Google’s advantage. “To deliver video, maps, and all the rest on the fly, optimized for a specific customer’s needs, to get the maximum benefit for the advertiser—that requires tremendous hardware, storage, and memory. It takes hundreds of computers free to each end user. The next tier down doesn’t have the economics to build this stuff.”
+
+The last few years have been disappointing for people who want to accelerate progress in technology. But now the world is moving faster again.”
+
+The next wave of innovation will compress today’s parallel solutions in an evolutionary convergence of electronics and optics: 3D and even holographic memory cells; lasers inscribed on the tops of chips, replacing copper pins with streams of photons; and all-optical networks in which thousands of colors of light travel along a single fiber. As these advances find their way into an increasing variety of devices, the petascale computer will shrink from a dinosaur to a teleputer—the successor to today’s handhelds—in your ear or in your signal path. It will access an endless variety of sensors, searchers, and servers.
+
+These innovations will enable participation in metaverses that seem to play to the strength of Google’s cloud, which will link to trillions of sensors around the globe. (IPhone8 has sixteen different sensor systems, from an array of radio frequency devices to gyroscopes, accelerometers, barometers, and imagers galore.) A planetary sensorium will give Google a constant knowledge of the physical state of the world, from traffic conditions to the workings of your own biomachine.
+
+Will the
+Sirens offer a new machine of economic growth and progress, investment and capital accumulation, and continued economic dominance? Or is The Dalles a monument to an expiring business strategy? Are the days of centralization over?
+
+
 
 
 
