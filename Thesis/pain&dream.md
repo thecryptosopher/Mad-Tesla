@@ -217,7 +217,239 @@ Upholding this theory of knowledge is a theory of mind derived from the pursuit 
   But Google’s insidious system of the world will be swept away.
   
   **Ch.3 Google's Roots & Religions**
+
+**Summary**: Google's integrated philopsophy
   
+Under the leadership of Larry Page and Sergey Brin, Google developed the integrated philosophy that currently shapes our lives and fortunes, combining 
+
+1) A theory of knowledge (nicknamed “Big Data”)
+2) A technological vision (centralized cloud computing)
+3) A cult of the commons (rooted in “open source” software)
+4) A concept of money and value (based on free goods and automated advertising)
+5) A theory of morality as “gifts” rather than profits
+6) A view of progress as evolutionary inevitability
+7) An ever diminishing “carbon footprint.
+
+Kurzweil calls it a “singularity,” marked by the triumph of computation over human intelligence.
+
+Google was never just a computer or software company. 
+
+Google’s founders always conceived of their projects in prophetic terms.
+
+Brin supplied the mathematical wizardry that converted the PageRank search algorithm into a scalable “crawler” across the entire expanse of the Internet and beyond.
+
+Page and Brin set out to render the world, beginning with its simulacrum, the Worldwide Web, as a readable set of digital files, a “corpus” of accessible information, an enormous database.
+
+As Page put it, “We don’t always produce what people want; it’s really difficult. To do that you have to be smart—you have to understand everything in the world. In computer science, we call that artificial intelligence.”5
+
+Homogenizing the globe’s amorphous analogical tangle of surfaces, sounds, images, accounts, songs, speeches, roads, buildings, documents, messages, and narratives into a planetary digital utility was a feat of immense monetary value.
+
+By making the Internet’s trove of information readily accessible to the public, and extending its reach to the terrestrial plane, Google introduced a fundamentally new technology.
+
+By developing efficient and hassle-free transactional systems, optimizing its computer processing, and driving down costs as it expanded in scale, Google might have garnered massive profits over the years.
+
+Google, however, was not a conventional company. It made the fateful and audacious decision to make all its content and information available free: in economic terms, a commons, available to all, in the spirit of the Internet pioneer Stewart Brand, whose slogan was “Information wants to be free.”
+
+Google doesn’t sweat to supply goods and services for cash and credit. It provides information, art, knowledge, culture, enlightenment, all for no charge.
+
+Apple is an old-style company, charging handsomely for everything it offers. Its CEO, Tim Cook, recall, is the author of the trenchant insight that “if the service is ‘free,’ you are not the customer but the product.”
+
+How do you get rich by giving things away? Google does it through one of the most ingenious technical schemes in the history of commerce.
+
+Page’s and Brin’s crucial insight was that the existing advertising system, epitomized by Madison Avenue, was linked to the old information economy, led by television, which Google would overthrow
+
+The genius of Google was to invent a search advertising model that avoids all the pitfalls it ascribes to existing practices and establishes a new economic model for its system of the world.
+
+Google understands that most advertising most of the time is value-subtracted. That is, to the viewers, ads are overwhelmingly minuses, or even mines. The digital world has accordingly responded with ad-blockers, ad-filters, mutes, Tivos, ad-voids, and other devices to help viewers escape the minuses, the covert exactions, that pay for their free content.
+
+The promise of the Internet under Google’s scheme would be that “no one would have to read or see any unwanted ads.
+
+Analytics uses a “dashboard,” a kind of Google Bloomberg Terminal, that monitors the queries, the yields, the number of advertisers, the number of keywords they bid on, the return on investment of every advertiser.
+
+Like Google, Burning Man might be termed a commons cult: a communitarian religious movement that celebrates giving—free offerings with no expectation of return—as the moral center of an ideal economy of missionaries rather than mercenaries
+
+Echoing the 10 Principles of Burning Man is Google’s corporate page presenting “Our Philosophy,” a guide to its system of the world in the form of “ten things we know to be true.”
+
+Nowhere is there any mention of the need for security.
+
+Security is at the heart of the problems of the Net, and in this case, Google is a source of problems rather than answers.
+
+
+**End of the Free World**
+
+**Summary**: ...
+
+
+The Google world is a bounteous and providential kingdom. But it is still based on mediation through advertising at a time when many forms of advertising are in a slow but discernible death spiral.
+
+The whole system which started with newspapers, moved on to radio, then TV, and then various forms of blogging and streaming is basically the same business model:
+
+Gather a bunch of people together who think they’re there for one thing, but are really there for something else.”1 It’s a bait and switch, and no one likes it.
+
+Despite all its heroic advances, Google still gets no less than 95 percent of its revenue from ads tied to its search engine.
+
+“How does the strategy change if the price is zero?”
+
+The answer turned out to be: “We win the entire market.”
+
+He heralded a “zero marginal cost society.” Under the new regime, the price of every incremental good and service, from search to software, from news to energy, will plunge toward “free” as every device and entity in the world is subsumed in an Internet of Things, where exponential network effects yield a new economy of leisure and abundance.
+
+Rifkin assured his audience that it is indeed a Google world.
+
+But not only is “free” a lie, as we’ve seen, but a price of zero signifies a return to the barter system, a morass of incommensurable exchanges that the human race left behind in the Stone Age. 
+
+You pay not with money but with your attention.
+
+Above all, you pay in time. Time is what money measures and represents— what remains scarce when all else becomes abundant in the “zero marginal cost” economy. 
+
+Money signals the real scarcities of the world concealed in the false infinities of free
+
+It’s the “Free World,” and it is reaching past your wallet, spurning your earned money, to seize your time—which is actually your life.
+
+ustomers come first, so in its Chrome browser, Google introduced its own ad-blocker. Google’s angle was that its blocker would apply only to ads condemned by the Coalition for Better Ads. 
+
+In other words, since Google’s ads were famously discreet and camouflaged, it announced it would block the ads of flagrant, garish, or slaphappy rivals. James speculates that this action might be illegal for a search engine.
+
+The most important effect of free, though, is not avoidance of liabilities to real customers. It is escape from the challenges of security.
+
+You rarely have to establish a ground state and defend it. Indeed, in a stream of free goods, the chief hacker is Google and its insidious ad-insert hocus pocus.
+
+This very lack of concern with security, however, will be Google’s undoing.
+
+The problem will be solved. Some thousands of companies you’ve never heard of are investing billions right now in that effort. Collectively they will give birth to a new network whose most powerful architectural imperative will be security of transactions as a property of the system rather than an afterthought.
+
+So fundamental will security be to this new system that its very name will be derived from it. It will be the cryptocosm.
+
+
+**Ten Laws of the Cryptocosm**
+
+**Summary**: ...
+
+Google’s security foibles, its “aggregate and advertise” model, its avoidance of price signals, its vertical silos of customer data, and its visions of machine mind are unlikely to survive the root-and-branch revolution of distributed peer-to- peer technology, which I call the “cryptocosm.”
+
+Today, all around us, scores of thousands of engineers and entrepreneurs are contriving a new system of the world that transcends the limits and illusions of the Google realm.
+
+In the Google era, the prime rule of the Internet is “Communications first.”
+
+In practice, “free” means insecure, amorphous, unmoored, and changeable from the top.
+
+This communications-first principle served us well for many years. The Internet is a giant asynchronous replicator that communicates by copying.
+
+In this system, security is a function of the network, applied from the top, rather than a property of the device and its owner. So everything rises to the top, the Googleplex, which achieves its speed and efficiency by treating its users as if they were making random choices.
+
+That’s the essence of the mathematical model behind their search engine. You are a random function of Google.
+
+But you are not random; you are a unique genetic entity that cannot be factored back into an egg and a sperm. You are unbreakably encrypted by biology. 
+
+These asymmetrical natural codes are the ruling model and metaphor for enduring security. You start by defining not the goal but the ground state.
+
+Before you build the function or the structure, you build the foundation. It is the ultimate non-random reality. The ground state is you.
+
+Utterly different from Google’s rule of communications first is the law of the cryptocosm. 
+
+The **first rule** is the barn-door law: “Security first.” Security is not a procedure or a mechanism; it is an architecture.
+
+For you, security means not some average level of surveillance at the network level but the safety of your own identity, your own device, and your own property
+
+You occupy and control a specific time and space. 
+
+You cannot be blended or averaged. Just as you are part of a biological ledger, inscribed through time in DNA codes and irreversible by outside power, your properties and transactions compose an immutable ledger.
+
+Just as you are bound in time, every entry in the cryptocosmic ledger is timestamped.
+
+The **second rule** of the cryptocosm derives from the first: “Centralization is not safe.” 
+
+Secure positions are decentralized ones, as human minds and DNA code are decentralized. Darwin’s mistake, and Google’s today, is to imagine that identity is a blend rather than a code—that machines can be a singularity, but human beings are random outcomes.
+
+Centralization tells thieves what digital assets are most valuable and where they are. It solves their most difficult problems. Unless power and information are distributed throughout the system peer to peer, they are vulnerable to manipulation and theft from the blenders at the top.
+
+The **third rule** is “Safety last.” 
+
+Unless the architecture achieves its desired goals, safety and security are irrelevant. Security is a crucial asset of a functional system. 
+
+Requiring the system to be safe at every step of construction results in a kludge: a machine too complex to use.
+
+The **fourth rule** is “Nothing is free. 
+
+This rule is fundamental to human dignity and worth. Capitalism requires companies to serve their customers and to accept their proof of work, which is money. Banishing money, companies devalue their customers.
+
+The **fifth rule** is “Time is the final measure of cost.” Time is what remains scarce when all else becomes abundant: the speed of light and the span of life. The scarcity of time trumps an abundance of money.
+
+The **sixth rule**: “Stable money endows humans with dignity and control.”
+
+Stable money reflects the scarcity of time. Without stable money, an economy is
+governed only by time and power.
+
+The **seventh rule** is the “asymmetry law,” reproducing biological asymmetry.
+
+A message coded by a public key can be decrypted only by the private key, but the private key cannot be calculated from the public key. 
+
+Asymmetric codes that are prohibitively difficult to break but easy to verify give power to the people. By contrast, symmetrical encryption gives power to the owners of the most costly computers.
+
+The **eighth rule** is “Private keys rule.” 
+
+They are what is secure. 
+
+They cannot be blended or changed from on top any more than your DNA can be changed or blended from above.
+
+The **ninth rule** is “Private keys are held by individual human beings, not by governments or Google.” Private keys enforce property rights and identities.
+
+Ownership of private keys distributes power. The owner of a private key (ID) can always respond to a challenge by proving ownership of the identity of a public address and the contents of a public ledger.
+
+The **tenth rule** is “Behind every private key and its public key is the human interpreter.” A focus on individual human beings makes meaningful security.
+
+
+Google is hierarchical. Life after Google will be heterarchical. 
+
+Google is top- down. Life after Google will be bottom-up. 
+
+Google rules by the insecurity of all the lower layers in the stack. A porous stack enables the money and power to be sucked up to the top. 
+
+In life after Google, a secure ground state in the individual human being, registered and timestamped in a digital ledger, will prevent this suction of hierarchical power.
+
+
+Whereas Google now controls your information and uses it free of charge, you will be master of your own information and charge for it freely.
+
+Try the Brave Browser of Brendan Eich, formerly of Mozilla and the author of JavaScript. It gives you power over your data and enables you to charge for them.
+
+Whereas Google envisages an era of machine dominance through artificial intelligence, you will rule your machines, and they will serve you as intelligent, willing slaves. You will be the “oracle” that programs your life and dictates to your tools.
+
+Whereas Google’s “free world” tries to escape the laws of scarcity and the webs of price, you will live in a world brimming with information on the real costs and most efficient availabilities of what you want and need.
+
+The proof of your work will trump the claims of top-down speed and hierarchical power. The crude imperatives of “free” will give way to the calibrated voluntary exchanges of free markets and micropayments.
+
+Whereas the Google world strains you through sieves of diversity and runs you through blenders of conformity, the new world will subsist on the foundational realities of individual uniqueness and choice. 
+
+Whereas the Google world is stifling entrepreneurs’ access to the public markets through initial public offerings, which are down 90 percent in two decades, the new world will offer an array of new paths to enterprise. From initial coin offerings and token issues to crowd-funded projects, new financial devices are already empowering a new generation of entrepreneurs.
+
+The queues of abject “unicorns”—privately held start-ups worth a billion dollars or more—outside the merger and acquisition offices of Google and its rivals will be dispersed, replaced by herds of “gazelles” headed for public markets at last.2
+
+Whereas Google attempts to capture your eyeballs with ubiquitous advertisements, you will see advertisements at your own volition, when you want them, and you will be paid for your time and attention. Again, Brave is the leader of this movement.
+
+Money is not a magic wand but a measuring stick, not wealth but a gauge of it. Whereas money in the Google era is fodder for a five-trillion-dollar-a-day currency exchange—that’s seventy-five times the amount of the world’s trade in goods and services—you will command unmediated money that measures value rather than manipulates it.
+
+Whereas the Google world is layered with middlemen and trusted third parties, you will deal directly with others around the globe with scant fees or delays.
+
+Emerging is a peer-to-peer swarm of new forms of direct transactions beyond national borders and new forms of Uber and Airbnb beyond corporate gouges
+
+Whereas the Google world confines you to one place and time and life, the new
+world will open up new dimensions and options of new life and experience where the only judge is the sovereign you.
+
+Does the promise that human dignity will once again take its place on the Internet and that human beings will be masters of the cryptocosm sound too good to be true?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
@@ -243,5 +475,46 @@ Trumbull’s analog 3D achieved full immersion without 3D glasses or VR goggles.
 The journey took only four minutes, but its virtual-reality intensity dilated time. Our eyes popping, our hearts racing, our lungs swollen, we felt as if we had been in the car for two hours. At least. We had actually undergone a form of time travel.
 
 But it will do doors—your front door and your car door and doors of perception
+
+Google is hierarchical. Life after Google will be heterarchical. 
+
+Google is top- down. Life after Google will be bottom-up. 
+
+Google rules by the insecurity of all the lower layers in the stack. A porous stack enables the money and power to be sucked up to the top. 
+
+In life after Google, a secure ground state in the individual human being, registered and timestamped in a digital ledger, will prevent this suction of hierarchical power.
+
+
+Whereas Google now controls your information and uses it free of charge, you will be master of your own information and charge for it freely.
+
+Try the Brave Browser of Brendan Eich, formerly of Mozilla and the author of JavaScript. It gives you power over your data and enables you to charge for them.
+
+Whereas Google envisages an era of machine dominance through artificial intelligence, you will rule your machines, and they will serve you as intelligent, willing slaves. You will be the “oracle” that programs your life and dictates to your tools.
+
+Whereas Google’s “free world” tries to escape the laws of scarcity and the webs of price, you will live in a world brimming with information on the real costs and most efficient availabilities of what you want and need.
+
+The proof of your work will trump the claims of top-down speed and hierarchical power. The crude imperatives of “free” will give way to the calibrated voluntary exchanges of free markets and micropayments.
+
+Whereas the Google world strains you through sieves of diversity and runs you through blenders of conformity, the new world will subsist on the foundational realities of individual uniqueness and choice. 
+
+Whereas the Google world is stifling entrepreneurs’ access to the public markets through initial public offerings, which are down 90 percent in two decades, the new world will offer an array of new paths to enterprise. From initial coin offerings and token issues to crowd-funded projects, new financial devices are already empowering a new generation of entrepreneurs.
+
+The queues of abject “unicorns”—privately held start-ups worth a billion dollars or more—outside the merger and acquisition offices of Google and its rivals will be dispersed, replaced by herds of “gazelles” headed for public markets at last.2
+
+Whereas Google attempts to capture your eyeballs with ubiquitous advertisements, you will see advertisements at your own volition, when you want them, and you will be paid for your time and attention. Again, Brave is the leader of this movement.
+
+Money is not a magic wand but a measuring stick, not wealth but a gauge of it. Whereas money in the Google era is fodder for a five-trillion-dollar-a-day currency exchange—that’s seventy-five times the amount of the world’s trade in goods and services—you will command unmediated money that measures value rather than manipulates it.
+
+Whereas the Google world is layered with middlemen and trusted third parties, you will deal directly with others around the globe with scant fees or delays.
+
+Emerging is a peer-to-peer swarm of new forms of direct transactions beyond national borders and new forms of Uber and Airbnb beyond corporate gouges
+
+Whereas the Google world confines you to one place and time and life, the new
+world will open up new dimensions and options of new life and experience where the only judge is the sovereign you.
+
+Does the promise that human dignity will once again take its place on the Internet and that human beings will be masters of the cryptocosm sound too good to be true?
+
+
+
 
 
