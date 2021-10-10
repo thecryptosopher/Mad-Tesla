@@ -590,7 +590,47 @@ These innovations will enable participation in metaverses that seem to play to t
 Will the
 Sirens offer a new machine of economic growth and progress, investment and capital accumulation, and continued economic dominance? Or is The Dalles a monument to an expiring business strategy? Are the days of centralization over?
 
+Star Trek was a world without money, without material scarcity. AI wanted to be like us, not replace us. It’s a future I think about a lot these days.
 
+Language and writing, agriculture and industrialization, science and technology — each further abstracted the cost of transactions in the material world to more transcendental metrics of currency and paid labor.
+
+Blockchain-based cryptocurrencies are shifting the world’s purchasing power from dollars to bits, unlocking a universe of value and services beyond anything that’s been possible in prior models, just as the Internet did before it.
+
+When renewable energy and 3D printing commoditize the cost and scarcity of acquiring material goods and services, the center of gravity in our worldwide economy will be the blockchain, not fiat currencies.
+
+AI and full automation of the service economy will come next. This disruption will pose deeper challenges to the workforce and world economy than globalization or factory robots.
+
+Jobs and commercial skills which can be learned or imparted through human instruction, higher education, or training — whether physical, mental or analytical — are at risk of being taken over by machine learning in the coming decades.
+
+When this happens we may have no choice other than to recalibrate the currency of human labor, skill and education.
+
+When 95% of the world moved from farming to industrial work, the collective mindshare of humanity was free to focus on reality defining expansions of civilization 
+
+With billions of us connected to each other (and to all collective human knowledge), we are more empowered than any previous generation to collaborate on a better system for us that is built on top of AI, not displaced by it.
+
+**A first principle in the “Render Economy” is that the resonance of authentic human thought, creativity and imagination are the fundamental units of currency**
+
+When AI has parity with more rarified levels of intelligent human skill and labor, it will only be commoditizing the value of human work, never human worth. 
+
+That worth can only be rendered by us, as humans, reinforcing and refining its collective expression for the betterment of our social fabric — a spiritual blockchain of sorts that only the human experience can validate and participate in.
+
+Our complete personal experience is a uniquely human metric by which we constantly measure qualia, social resonance and novel truths. 
+
+No machine can ever do this more authentically and meaningfully than we do. 
+
+In a decentralized, dematerialized and fully automated world, the flow and final evaluation of human value must never stop being a human responsibility.
+
+The Render Token and the network that it encompasses are built to enable such a system’s viability as early as possible. First, through massive cost savings in distributed rendering that bootstrap the render economy in its early stages. Then, in subsequent phases to come, through a semantic web of value and authorship encoded in the blockchain itself.
+
+The RNDR network, at launch, is driven by human intent to receive render work that matches the expectation and acceptance of its human author (who has invested value into his or her creation). 
+
+Proof of render work, removal of watermarks, and an exchange of tokens for final output is triggered by a human action, not an algorithm. Human authentication at the beginning and end of the token exchange process is the driving value of this economy, no matter what secondary layers are digitized, computed or automated.
+
+In a post-automation world, AI may ultimately evolve to the point where it can generate our media, art, stories, synthetic experiences and expose us to novel and meaningful truths. 
+
+This may feel like it threatens the sacred final frontier of human creative output. 
+
+But we should remember that even if AI one day powers the entire economy of creating thought and art, the only transactional unit of currency in such a system, will be when we, as humans, render it valuable.
 
 
 
